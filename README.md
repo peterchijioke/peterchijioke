@@ -59,7 +59,7 @@ Experienced Software Engineer with a passion for innovation across industries. P
 
 ## 🌍 Open Source Contributions
 
-- [GitHub Repositories](https://github.com/yourusername)
+- [GitHub Repositories](https://github.com/peterchijioke)
 
 ## 📈 GitHub Stats
 
