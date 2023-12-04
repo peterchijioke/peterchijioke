@@ -61,4 +61,6 @@ Experienced Software Engineer with a passion for innovation across industries. P
 
 - [GitHub Repositories](https://github.com/peterchijioke)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+
 Feel free to connect with me! Let's collaborate and build amazing things together. 😄
