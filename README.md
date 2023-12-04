@@ -61,7 +61,4 @@ Experienced Software Engineer with a passion for innovation across industries. P
 
 - [GitHub Repositories](https://github.com/peterchijioke)
 
-## 📈 GitHub Stats
-
-
 Feel free to connect with me! Let's collaborate and build amazing things together. 😄
