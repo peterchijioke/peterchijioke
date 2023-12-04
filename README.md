@@ -63,6 +63,5 @@ Experienced Software Engineer with a passion for innovation across industries. P
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
 Feel free to connect with me! Let's collaborate and build amazing things together. 😄
