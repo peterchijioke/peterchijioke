@@ -1,6 +1,6 @@
 # Hello, I'm Chukwu Chijioke Peter! 👋
 
-Experienced Software Engineer with a passion for innovation across industries. Proficient in various technologies including NodeJS, React, React Native, MySQL, MongoDB, and more. Skilled in both backend and frontend development, consistently delivering exceptional software solutions.
+I am an experienced Software Engineer with a passion for innovation across industries. Proficient in various technologies including NodeJS, React, React Native, MySQL, MongoDB, and more. Skilled in both backend and frontend development, consistently delivering exceptional software solutions.
 
 ## 🚀 About Me
 
