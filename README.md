@@ -13,11 +13,12 @@ I am an experienced Software Engineer with a passion for innovation across indus
 
 ## 🔧 Skills
 
-- **Languages:** JavaScript (NodeJS), Python, TypeScript
+- **Languages:** JavaScript, Python, TypeScript, Rust
 - **Frontend:** React, React Native
-- **Backend:** NodeJS, Express, Laravel, Django
+- **Backend:** NodeJS, Express, Laravel, NestJs
+- **Blockchain:** Solana (Rust native)
 - **Databases:** MySQL, MongoDB, Neo4J, PostgreSQL
-- **Tools:** Docker, AWS
+- **Tools:** Docker, AWS, Namecheap, Hostinger etc.
 
 ## 🛠️ Projects
 
