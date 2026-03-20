@@ -13,7 +13,7 @@ Results-driven Senior Software Engineer with expertise in building scalable appl
 - 📧 [chukwu.chijioke.peter@gmail.com](mailto:chukwu.chijioke.peter@gmail.com)
 - 📱 +234 703-862-0466
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chijioke-peter)
-- 🌐 [Portfolio](https://p_753621.livecycle.dev)
+- 🌐 [Portfolio](https://chukwu-peter.vercel.app/)
 - 💻 [GitHub](https://github.com/peterchijioke)
 
 ---
