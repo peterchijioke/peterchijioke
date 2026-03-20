@@ -1,237 +1,190 @@
-# PETER (CHIJIOKE) CHUKWU
+# CHUKWU CHIJIOKE PETER
 
-**Senior Software Engineer | Full-Stack Engineer**
+**Senior Full-Stack Software Engineer**  
+Go | Next.js | React Native | Distributed Systems  
 
----
+Abuja, Nigeria  
++234 814 711 0312  
+peterchijioke1@gmail.com  
 
-## About
-
-Results-driven **Senior Software Engineer** with strong experience building scalable **web, mobile, and backend systems**. Experienced in designing production-ready applications using **React, React Native, Next.js, Node.js, Go, NestJS, and modern cloud infrastructure**.
-
-Skilled in **full-stack architecture, API development, authentication systems, real-time applications, and high-performance search systems**. Proven ability to build complex platforms including **fintech, real estate, vehicle marketplaces, and social platforms**.
-
-Passionate about building **scalable systems, efficient developer workflows, and high-impact digital products.**
+GitHub: https://github.com/peterchijioke  
+LinkedIn: https://linkedin.com/in/chijioke-peter/
 
 ---
 
-## Contact
+# Professional Summary
 
-- Email: chukwu.chijioke.peter@gmail.com  
-- Phone: +234 703-862-0466  
-- LinkedIn: https://www.linkedin.com/in/chijioke-peter  
-- Portfolio: https://chukwu-peter.vercel.app  
-- GitHub: https://github.com/peterchijioke  
+Senior Full-Stack Software Engineer with **6+ years of experience** building scalable web and mobile platforms using **Go, Next.js, React, and React Native**.
 
----
+Experienced in designing **high-performance backend services, microservice architectures, and real-time systems** powering production applications across **transport, fintech, e-commerce, and marketplace platforms**.
 
-## Technical Skills
+Proven ability to deliver **end-to-end systems**, from Go backend APIs and distributed systems to responsive web interfaces and cross-platform mobile applications.
 
-### Programming Languages
-
-JavaScript | TypeScript | Python | Go (Golang)
-
-### Frontend Development
-
-- React.js  
-- Next.js  
-- React Native  
-- Responsive UI Architecture
-
-### Backend Development
-
-- Node.js  
-- Express.js  
-- NestJS  
-- FastAPI  
-- Go
-
-### Databases
-
-- PostgreSQL  
-- MongoDB  
-- MySQL  
-- Neo4j  
-- Redis
-
-### Search & Data Systems
-
-- Algolia Search  
-- Search Index Optimization  
-- Complex Filtering Systems
-
-### DevOps & Infrastructure
-
-- Docker  
-- AWS  
-- Contabo  
-- Namecheap  
-- Hostinger  
-- CI/CD Workflows  
-- Git
+Strong expertise in **REST APIs, WebSockets, payment integrations, event-driven architecture, and production system deployment.**
 
 ---
 
-## Professional Experience
+# Technical Skills
 
-### Senior Software Engineer  
-**Amabils Tech (RAD)**  
-April 2023 — Present
+## Languages
+Go, TypeScript, JavaScript (ES6+)
 
-- Designed and implemented scalable **web and mobile applications** using **React, React Native, Node.js, Go, and MongoDB**.
-- Built **real-time systems** using Socket.io.
-- Developed backend APIs and services powering multiple production platforms.
-- Collaborated with cross-functional teams to design scalable architectures and efficient data models.
-- Delivered production features across fintech platforms and enterprise systems.
+## Backend Engineering
+Go  
+Node.js  
+REST APIs  
+WebSockets  
+Microservices Architecture  
+Event-Driven Systems
 
----
+## Frontend & Mobile
+Next.js  
+React  
+React Native  
+HTML5  
+CSS3  
+TailwindCSS
 
-### Software Engineer  
-**Veritasi / NPF-Mobile Project**  
-Contract
+## Databases
+PostgreSQL  
+MongoDB  
+Redis  
+Firebase
 
-#### NPF-Mobile Application
+## Infrastructure & DevOps
+Docker  
+Docker Compose  
+CI/CD  
+GitHub Actions  
+Nginx
 
-Mobile banking platform for **Nigerian Police Microfinance Bank**.
+## Integrations
+Stripe  
+Korapay  
+Webhooks  
+Payment Processing
 
-- Developed mobile features using **React Native**.
-- Built backend services with **Node.js and Express.js**.
-- Integrated financial APIs and improved mobile performance.
+## Testing & Quality
+Unit Testing  
+Integration Testing  
+Jest  
+Cypress
 
-#### Veritasi Real Estate Platform
-
-- Developed application features using **React Native**.
-- Built backend services using **Node.js, Express, and PostgreSQL**.
-- Improved performance and platform stability.
-
----
-
-### Team Lead  
-**Contact Management System – Form Builder**
-
-Duration: 5 Months
-
-- Led a team of **5 developers** building a contact management platform.
-- Designed backend architecture using **Django and Neo4j graph database**.
-- Implemented scalable APIs and relationship-based data modeling.
-- Managed development workflow and architecture decisions.
-
----
-
-## Selected Engineering Projects
-
-### DealerTower Vehicle Marketplace Platform
-
-High-performance **vehicle marketplace platform** built using **Next.js and Algolia**.
-
-Key Features:
-
-- Advanced vehicle filtering (make, model, trim)
-- Instant search using Algolia
-- SEO-optimized dynamic routing
-- Scalable vehicle listing architecture
-- Optimized search indexing and filtering
+## Tools
+Git  
+Figma  
+Algolia  
+SEO Optimization
 
 ---
 
-### Authentication & OTP Verification System
+# Professional Experience
 
-Secure authentication system built using **NestJS, Redis, and Nodemailer**.
+## Senior Software Engineer  
+**Amabills Technologies**  
+Feb 2024 – Present • Abuja, Nigeria (Hybrid)
 
-Key Features:
+Stack: Go, Node.js, Next.js, React Native
 
-- Email verification
-- OTP login and registration flows
-- Password reset system
-- Redis-based OTP storage and throttling
-- Secure JWT authentication
-
----
-
-### Social Media Mobile Application
-
-Twitter-like social media application built using **React Native**.
-
-Key Features:
-
-- Post creation
-- Likes and reposts
-- Comment system
-- Bookmarking functionality
-- Animated UI interactions
+- Architected and built **Lodapoint**, a multi-modal transport platform supporting ride-hailing, truck logistics, and tricycle transport services.
+- Developed the **React Native mobile application** enabling ride booking, driver tracking, and trip management.
+- Built the **Next.js operations dashboard** for fleet management, driver oversight, and real-time trip monitoring.
+- Designed scalable **REST APIs and WebSocket services** for real-time location updates and concurrent ride bookings.
+- Contributed to backend architecture supporting **high-concurrency ride requests and real-time data synchronization**.
 
 ---
 
-### Amabills 360 Corporation Platform
+## Full-Stack Software Engineer  
+**JoinQ**  
+Feb 2022 – Jan 2024 • Remote
 
-Enterprise platform built using:
+Stack: Go, Next.js, React Native, Stripe
 
-**Frontend**
-
-- React.js
-- React Native
-
-**Backend**
-
-- Go
-- Node.js
-- Express
-
-**Infrastructure**
-
-- MongoDB
-- Socket.io
+- Architected and developed **JoinQ**, a digital queue management platform allowing customers to discover businesses and join service queues remotely.
+- Built a **React Native business application** for managing customer queues and configuring payment settings.
+- Developed a **Next.js customer platform** where users search businesses, join queues, and track queue positions in real time.
+- Designed and implemented **Go backend services** managing queue workflows, business accounts, and customer interactions.
+- Integrated **Stripe payments** allowing users to skip queues via paid priority access.
+- Implemented **Stripe Connect onboarding** enabling businesses to securely receive payments.
+- Ensured consistent queue state across mobile and web clients using **real-time updates and event-driven backend processes**.
 
 ---
 
-## Education
+## Backend Engineer (Freelance)  
+**Payment Processing Service**  
+Remote | 2023
 
-**Bachelor of Science (BSc) — Computer Science**  
-Chukwuemeka Odumegwu Ojukwu University  
-Graduated: August 2019
+Stack: Go, PostgreSQL, Docker, Webhooks
 
----
-
-## Certifications
-
-- Project Management Professional (2020)
-- Programming Foundations: Databases (2020)
-- Human Resource Management Professional (2020)
-- React: Testing and Debugging (2021)
-- React: Design Patterns (2023)
-- TypeScript: Object-Oriented Programming (2023)
-- TypeScript for Node.js Developers (2023)
+- Designed and implemented a **Go-based payment processing service** supporting multi-currency transactions.
+- Implemented **idempotent payment APIs** preventing duplicate transactions.
+- Built secure **webhook processing infrastructure** using HMAC signature verification.
+- Designed a **double-entry ledger system** ensuring financial integrity and auditable transaction records.
+- Implemented **account balance management with fund locking** to support concurrent transactions.
 
 ---
 
-## Professional Affiliations
+## Backend Engineer (Freelance)  
+**Patricia E-commerce Platform**  
+Remote | 2023
 
-Graduate Member — Computer Society of Nigeria (2021 – Present)  
-Member — Google Developer Group (GDG) (2019 – Present)
+Stack: Go, Gin, PostgreSQL, GORM, Docker, Nginx, JWT, Korapay
 
----
-
-## Continuous Learning
-
-Workshop on Training of Trainers in Technology  
-International Foundation for Electoral Systems — Calabar, Nigeria (2019)
-
-IT for Economic Development & Enhanced Security  
-Nigeria Computer Society — Owerri, Nigeria (2022)
-
-Google Africa Scholarship — Front-End Mobile/Web Development (2020)
-
-Jobberman Soft Skills Training (2020)
+- Developed a **production-grade e-commerce backend API** supporting product catalog, orders, payments, and user management.
+- Implemented **clean architecture** using handlers, services, repositories, and domain models.
+- Built **product and category management systems** supporting variants and multiple images.
+- Integrated **Korapay payment gateway** with webhook handling for transaction verification.
+- Implemented **JWT authentication, API key security, rate limiting, and monitoring middleware**.
+- Containerized the application using **Docker** and deployed with **Nginx reverse proxy and SSL**.
 
 ---
 
-## Interests
+## Frontend Developer  
+**AFTJ Technologies**  
+Feb 2021 – Jan 2022 • Remote (USA-based company)
 
-- Distributed Systems
-- High-Performance APIs
-- Cloud Architecture
-- AI-powered Applications
-- Data Engineering
+Stack: Next.js, React, Go
+
+- Built the **Oneautomech marketplace platform** connecting vehicle owners with mechanics for service bookings.
+- Implemented **booking workflows, service listings, and real-time job status tracking**.
+- Integrated frontend applications with **Go backend APIs**.
+- Contributed to the **Foodslop food delivery platform**, implementing restaurant discovery, order management, and delivery tracking features.
 
 ---
 
-**Open to remote opportunities and international engineering roles.**
+## Software Engineer  
+**Xerde Limited**  
+Feb 2020 – Jan 2021 • Lagos, Nigeria
+
+Stack: Node.js, React Native
+
+- Developed core features for the **NPF Microfinance mobile application**, including account management and transaction history.
+- Built the **Veritasi real estate mobile platform** with property search and listing management.
+- Participated in **code reviews and testing** to maintain stable production releases.
+
+---
+
+# Education
+
+**B.Sc. Computer Science**  
+Chukwuemeka Odumegwu Ojukwu University — 2019
+
+**OND Computer Engineering**  
+Covenant Polytechnic Owerrinta — 2015
+
+---
+
+# Certifications
+
+Google Mobile Front-End Engineer  
+Succeeding in Web Development: Full Stack
+
+---
+
+# Core Strengths
+
+- Designing scalable **Go backend systems**
+- Building **full-stack platforms (API → Web → Mobile)**
+- Developing **real-time systems using WebSockets**
+- **Payment systems and financial infrastructure**
+- Strong debugging, **system design, and performance optimization**
