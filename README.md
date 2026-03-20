@@ -1,4 +1,4 @@
-# Chukwu (Chijioke) Peter
+# PETER (CHIJIOKE) CHUKWU
 
 Senior Software Engineer | Full-Stack Developer
 
