@@ -1,4 +1,4 @@
-# CHUKWU CHIJIOKE PETER
+# CHUKWU (CHIJIOKE) PETER
 
 **Senior Full-Stack Software Engineer**  
 Go | Next.js | React Native | Distributed Systems  
